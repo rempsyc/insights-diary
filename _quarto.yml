@@ -7,10 +7,11 @@ website:
   navbar:
     right:
       - about.qmd
+      - icon: house
+        href: https://remi-theriault.com/
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/rempsyc/
+      
 format:
   html:
     theme:
