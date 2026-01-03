@@ -12,7 +12,7 @@ website:
       theme: clean
       openSidebar: false
     giscus: 
-      repo: quarto-dev/quarto-docs
+      repo: rempsyc/insights-diary
   navbar:
     right:
       - text: About
