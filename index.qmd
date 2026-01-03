@@ -1,5 +1,5 @@
 ---
-title: "insights-diary"
+title: "Insights Diary: Archiving my Working Thoughts and Reflections Before They Vanish Into Existence"
 listing:
   contents: posts
   sort: "date desc"
