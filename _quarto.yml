@@ -7,6 +7,10 @@ website:
   favicon: images/favicon.jpg
   open-graph: true
   google-analytics: "G-274QZTFL23"
+  comments: 
+    hypothesis:
+      theme: clean
+      openSidebar: true
   navbar:
     right:
       - text: About
