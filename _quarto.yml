@@ -4,7 +4,9 @@ project:
 
 website:
   title: "insights-diary"
-  favicon: profile.png
+  favicon: images/favicon.jpg
+  open-graph: true
+  google-analytics: "G-274QZTFL23"
   navbar:
     right:
       - text: About

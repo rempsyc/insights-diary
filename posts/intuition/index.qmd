@@ -4,12 +4,14 @@ author: "Rémi Thériault"
 date: "2026-01-03"
 categories: [insight, phenomenology, intuition, psychology]
 image: "image.jpg"
-draft: false
+lightbox: true
 ---
 
 # Listening and the Integration of the Self
 
 Writing this, I am here in Varanasi, reflecting on death and impermanence at the Ganges’ Dashashwamedh Ghat for the Aarti ritual. This is part of a three-week trip in India where I am visiting a lot of holy spiritual Buddhist and Hindu sites, and it's bringing me a lot of higher-level reflections, including on the nature of intuition and consciousness.
+
+![Aarti Ritual at the Assi Ghat in Varanasi](aarti.jpg){width="80%" fig-align="left"}
 
 One thing that I've been thinking about is finding a medium to communicate my ideas and reflections about listening as a *state of consciousness.* In fact, I'm thinking maybe I should publish a book, probably boringly called, "Listen" (it's probably already taken, though).
 
@@ -28,6 +30,8 @@ I also noticed that many people say that I have a distinct way to speak, which m
 And what I’ve observed is that I don’t know what exactly is going on there; I’m just following "the path" (what's that, you ask?). Simply put, "the path" is, in essence, a "feeling", that shows me the rhythm to adopt. Then, I just follow this "map". This "map" is non-visual, and only contains like the next second or so of "planning", so I have to continuously pay attention to it to know when to stop my words and take breaks. In other words, I have to continuously "look at" or "listen to" the next steps to know what to do. So I think you can see here what's happening: the conscious part of the brain is actively trying to "listen" to the (so-to-speak) unconscious side. (Now, a side quest might be to ask: how on earth does this mental sensation "know" what rhythm to adopt? I have no idea)
 
 Basically, one could say that this process is normally automatic, but that with awareness, I was able to observe in more detail what is happening. That process is not exactly 100% spontaneous or instant, rather, I have to actively "listen" to "it"—the so called unconscious mind, for a lack of a better word?
+
+![The Three Wise Monkeys at Mumbai University](image.jpg){width="80%" fig-align="left"}
 
 Regardless, at this point, I am pretty confident that I could define "intuition" in very clear operational terms, mostly around physical sensations in the body and mind. Yes, yes, mind sensations. Such as "listening to the path" as described above. Perhaps similar things are happening for musicians and improvisation, freestyle rapping, and the like.
 
