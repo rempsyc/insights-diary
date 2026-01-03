@@ -6,7 +6,8 @@ website:
   title: "insights-diary"
   navbar:
     right:
-      - about.qmd
+      - text: About
+        href: about.qmd
       - icon: house
         href: https://remi-theriault.com/
       - icon: github

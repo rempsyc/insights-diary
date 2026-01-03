@@ -1,5 +1,5 @@
 ---
-title: "Insights Diary: Archiving my Working Thoughts and Reflections Before They Vanish Into Existence Purposefully opinionated."
+title: "Insights Diary: Archiving my Working Thoughts and Reflections Before They Vanish Into Existence (purposefully opinionated)"
 listing:
   contents: posts
   sort: "date desc"
