@@ -4,6 +4,7 @@ author: "Rémi Thériault"
 date: "2026-01-03"
 categories: [insight, phenomenology, intuition, psychology]
 image: "image.jpg"
+draft: false
 ---
 
 # Listening and the Integration of the Self
