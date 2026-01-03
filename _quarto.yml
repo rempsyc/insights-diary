@@ -11,6 +11,8 @@ website:
     hypothesis:
       theme: clean
       openSidebar: false
+    giscus: 
+      repo: quarto-dev/quarto-docs
   navbar:
     right:
       - text: About
