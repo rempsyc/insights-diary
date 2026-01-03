@@ -15,4 +15,4 @@ about:
       href: https://github.com
 ---
 
-Archiving my working thoughts and reflections before they vanish into existence. Purposefully opinionated. Not peer-reviewed—and in fact, possibly barely self-reviewed—take with a grain of salt. Thoughts are just thoughts. Think critically, and please disagree, if you may.
+Archiving my working thoughts and reflections before they vanish into existence. Purposefully opinionated. Not peer-reviewed—possibly even barely self-reviewed—take with a grain of salt. Thoughts are just thoughts. Think critically, and please disagree, if you may.
