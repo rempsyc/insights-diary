@@ -18,7 +18,7 @@ website:
       - icon: house
         href: https://remi-theriault.com/
       - icon: github
-        href: https://github.com/rempsyc/
+        href: http://github.com/rempsyc/insights-diary/
       
 format:
   html:
