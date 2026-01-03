@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "insights-diary"
+  title: "The Insights Diary"
   favicon: images/favicon.jpg
   open-graph: true
   google-analytics: "G-274QZTFL23"
