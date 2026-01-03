@@ -10,7 +10,7 @@ website:
   comments: 
     hypothesis:
       theme: clean
-      openSidebar: true
+      openSidebar: false
   navbar:
     right:
       - text: About
