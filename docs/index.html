@@ -152,7 +152,7 @@ window.Quarto = {
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Insights Diary: Archiving my Working Thoughts and Reflections Before They Vanish Into Existence (purposefully opinionated) – The Insights Diary">
-<meta property="og:image" content="./posts/intuition/image.jpg">
+<meta property="og:image" content="https://insights.remi-theriault.com/posts/intuition/image.jpg">
 <meta property="og:site_name" content="The Insights Diary">
 </head>
 
@@ -367,7 +367,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/insights\.remi-theriault\.com\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
