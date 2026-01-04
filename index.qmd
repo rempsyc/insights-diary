@@ -2,6 +2,7 @@
 title: "Insights Diary: Archiving my Working Thoughts and Reflections Before They Vanish Into Existence (purposefully opinionated)"
 listing:
   contents: posts
+  fields: [image, date, title, description, categories, author]
   sort: "date desc"
   type: default
   categories: true
