@@ -7,11 +7,11 @@ categories: [insight, phenomenology, intuition, psychology]
 description: "Reflections on deep listening, the integrated self, and the nature of intuition."
 image: "image.jpg"
 lightbox: true
-cover-image: image.JPG
+cover-image: image.jpg
 twitter-card:
-  image: "image.JPG"
+  image: "image.jpg"
 open-graph:
-  image: "image.JPG"
+  image: "image.jpg"
 ---
 
 # Listening and the Integration of the Self
