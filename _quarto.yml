@@ -7,6 +7,8 @@ website:
   title: "The Insights Diary"
   favicon: images/favicon.jpg
   open-graph: true
+  description: "A blog archiving working thoughts and reflections."
+  image: images/profile.png
   google-analytics: "G-274QZTFL23"
   twitter-card:
     creator: "@rempsyc"

@@ -1,5 +1,8 @@
 ---
-title: "Insights Diary: Archiving my Working Thoughts and Reflections Before They Vanish Into Existence (purposefully opinionated)"
+title: "The Insights Diary"
+subtitle: "Archiving my Working Thoughts and Reflections Before They Vanish Into Existence"
+description: "Purposefully opinionated"
+image: images/profile.png
 listing:
   contents: posts
   fields: [image, date, title, description, categories, author]
