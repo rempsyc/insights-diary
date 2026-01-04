@@ -8,9 +8,9 @@ website:
   favicon: images/favicon.jpg
   google-analytics: "G-274QZTFL23"
   open-graph:
-    image: "images/image.JPG"
+    image: "images/image.jpg"
   twitter-card:
-    image: "images/image.JPG"
+    image: "images/image.jpg"
     creator: "@rempsyc"
     site: "@rempsyc"
   comments: 
