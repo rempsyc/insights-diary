@@ -8,7 +8,9 @@ website:
   favicon: images/favicon.jpg
   open-graph: true
   google-analytics: "G-274QZTFL23"
-  twitter-card: true
+  twitter-card:
+    creator: "@rempsyc"
+    site: "@rempsyc"
   comments: 
     hypothesis:
       theme: clean
