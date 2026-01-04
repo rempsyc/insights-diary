@@ -5,6 +5,11 @@ date: "2026-01-03"
 categories: [insight, phenomenology, intuition, psychology]
 image: "image.JPG"
 lightbox: true
+cover-image: image.JPG
+twitter-card:
+  image: "image.JPG"
+open-graph:
+  image: "image.JPG"
 ---
 
 # Listening and the Integration of the Self
