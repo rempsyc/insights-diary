@@ -6,9 +6,11 @@ website:
   site-url: https://insights.remi-theriault.com/
   title: "The Insights Diary"
   favicon: images/favicon.jpg
-  open-graph: true
   google-analytics: "G-274QZTFL23"
+  open-graph:
+    image: "images/image.JPG"
   twitter-card:
+    image: "images/image.JPG"
     creator: "@rempsyc"
     site: "@rempsyc"
   comments: 
