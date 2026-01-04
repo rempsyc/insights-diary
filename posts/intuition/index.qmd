@@ -5,8 +5,8 @@ date: "2026-01-03"
 subtitle: "Deep Listening, Mind Sensations, and the Cocktail Party Effect"
 categories: [insight, phenomenology, intuition, psychology]
 description: "Reflections on deep listening, the integrated self, and the nature of intuition."
-image: "image.jpg"
 lightbox: true
+image: "image.jpg"
 cover-image: image.jpg
 twitter-card:
   image: "image.jpg"
