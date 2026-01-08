@@ -1,0 +1,17 @@
+---
+title: "This is just a list of upcoming topics"
+author: "Rémi Thériault"
+date: "2026-01-03"
+categories: [enlightenment, productivity, consolidation, training]
+image: "image.jpg"
+lightbox: true
+draft: true
+---
+
+### Ideas to reflect on for future blog posts
+
+1.  What is Enlightenment? (Spoiler: It's Not Perfection)
+2.  Letting go of productivity in favor of fruitfulness
+3.  Consolidation and curation: what we need more of, and the importance of clarity
+4.  Is productivity linear? Investigation into contemporary claims of old literature
+5.  One-set-a-day program
