@@ -1,6 +1,6 @@
 ---
 title: "The Insights Diary"
-subtitle: "Archiving my Working Thoughts and Reflections Before They Vanish Into Existence"
+subtitle: "Archiving my working thoughts and reflections before they vanish into existence"
 description: "Purposefully opinionated"
 listing:
   contents: posts
