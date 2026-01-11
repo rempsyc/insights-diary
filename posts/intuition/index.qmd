@@ -12,6 +12,11 @@ twitter-card:
   image: "image.jpg"
 open-graph:
   image: "image.jpg"
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta property="og:type" content="article">
 ---
 
 # Listening and the Integration of the Self
