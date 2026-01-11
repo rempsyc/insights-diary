@@ -17,6 +17,7 @@ format:
     include-in-header:
       text: |
         <meta property="og:type" content="article">
+        <meta property="og:url" content="https://insights.remi-theriault.com/posts/intuition/">
 ---
 
 # Listening and the Integration of the Self
