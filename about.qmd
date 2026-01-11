@@ -1,6 +1,7 @@
 ---
 title: "About"
 image: images/profile.png
+image-alt: "Profile picture of Rémi Thériault"
 about:
   template: jolla
   links:

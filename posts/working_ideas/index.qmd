@@ -4,6 +4,7 @@ author: "Rémi Thériault"
 date: "2026-01-03"
 categories: [enlightenment, productivity, consolidation, training]
 image: "image.jpg"
+image-alt: "Illustration for upcoming topics"
 lightbox: true
 draft: true
 ---

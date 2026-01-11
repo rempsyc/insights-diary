@@ -92,8 +92,20 @@ gtag('config', 'G-274QZTFL23', { 'anonymize_ip': true});
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="About – The Insights Diary">
 <meta property="og:description" content="">
-<meta property="og:image" content="images/profile.png">
+<meta property="og:image" content="https://insights.remi-theriault.com/images/profile.png">
 <meta property="og:site_name" content="The Insights Diary">
+<meta property="og:image:height" content="514">
+<meta property="og:image:width" content="514">
+<meta property="og:image:alt" content="Profile picture of Rémi Thériault">
+<meta name="twitter:title" content="About – The Insights Diary">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://insights.remi-theriault.com/images/profile.png">
+<meta name="twitter:creator" content="@rempsyc">
+<meta name="twitter:site" content="@rempsyc">
+<meta name="twitter:image-height" content="514">
+<meta name="twitter:image-width" content="514">
+<meta name="twitter:image:alt" content="Profile picture of Rémi Thériault">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -141,7 +153,7 @@ gtag('config', 'G-274QZTFL23', { 'anonymize_ip': true});
     
 <!-- main -->
 <div class="quarto-about-jolla">
-  <img src="images/profile.png" class="about-image
+  <img src="images/profile.png" alt="Profile picture of Rémi Thériault" class="about-image
   round " style="height: 15em; width: 15em;">
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -254,7 +266,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/insights\.remi-theriault\.com\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

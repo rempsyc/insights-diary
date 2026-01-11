@@ -4,6 +4,7 @@ author: "Rémi Thériault"
 date: "2026-01-03"
 categories: [insight, phenomenology, intuition, psychology]
 image: "image.jpg"
+image-alt: "Illustration representing enlightenment"
 lightbox: true
 draft: true
 ---

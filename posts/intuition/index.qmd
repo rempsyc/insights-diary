@@ -7,6 +7,7 @@ categories: [insight, phenomenology, intuition, psychology]
 description: "Reflections on deep listening, the integrated self, and the nature of intuition."
 lightbox: true
 image: "image.jpg"
+image-alt: "The Three Wise Monkeys at Mumbai University"
 cover-image: image.jpg
 twitter-card:
   image: "image.jpg"
