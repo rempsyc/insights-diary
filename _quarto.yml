@@ -28,6 +28,8 @@ website:
         href: https://remi-theriault.com/
       - icon: github
         href: http://github.com/rempsyc/insights-diary/
+      - icon: rss
+        href: index.xml
       
 format:
   html:
