@@ -31,7 +31,7 @@ format:
 
 Writing this, I am here in Varanasi, reflecting on death and impermanence at the Ganges’ Dashashwamedh Ghat for the Aarti ritual. This is part of a three-week trip in India where I am visiting a lot of holy spiritual Buddhist and Hindu sites, and it's bringing me a lot of higher-level reflections, including on the nature of intuition and consciousness.
 
-![Aarti Ritual at the Assi Ghat in Varanasi](aarti.jpg){fig-alt="Three priests in red robes performing the Aarti ritual, holding up large flaming brass lamps at night."}
+![Aarti Ritual at the Assi Ghat in Varanasi](aarti.jpg){fig-alt="Three priests in red robes performing the Aarti ritual, holding up large flaming brass lamps at night."} 
 
 One thing that I've been thinking about is finding a medium to communicate my ideas and reflections about listening as a *state of consciousness.* In fact, I'm thinking maybe I should publish a book, probably boringly called, "Listen" (it's probably already taken, though).
 
